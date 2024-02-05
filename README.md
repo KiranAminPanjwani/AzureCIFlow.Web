@@ -43,3 +43,6 @@ This project encompasses a holistic approach to DevOps, integrating Azure DevOps
 The CI/CD (Continuous Integration/Continuous Deployment) lifecycle is a software development approach that emphasizes frequent and automated integration, testing, and deployment of code changes. In this dynamic process, developers regularly commit code to a shared repository, triggering automated builds, tests, and ultimately, the automated deployment of validated changes to production. This iterative cycle ensures a streamlined and efficient development workflow, reducing manual errors, enhancing collaboration, and enabling rapid and reliable software releases.
 
 ![image](https://github.com/KiranAminPanjwani/AzureCIFlow.Web/assets/90326051/6259a659-6ec2-4c0e-98bb-be7578b58ecd)
+
+## Structure:
+![image](https://github.com/KiranAminPanjwani/AzureCIFlow.Web/assets/90326051/53cf39e5-2736-40e7-b869-bbe1bda1c5e3)
